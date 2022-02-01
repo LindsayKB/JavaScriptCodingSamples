@@ -1,0 +1,1 @@
+pintrk('track', 'pagevisit', {});
